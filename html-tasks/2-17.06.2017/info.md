@@ -32,7 +32,7 @@ caption
 
 Сделать таблицу:
 
-![](info-files/2-3-1.png)
+![](info-files/2-2-1.png)
 
 ## Sub task 3
 
