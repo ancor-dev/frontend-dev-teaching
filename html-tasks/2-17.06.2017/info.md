@@ -48,29 +48,29 @@ color
 
 Сделать таблицы:
 
-**Sub task 3-3-1**  
+#### Sub task 2-3-1
 ![](./info-files/2-3-1.png)
 
-**Sub task 3-3-2**  
+#### Sub task 2-3-2
 ![](./info-files/2-3-2.png)
 
-**Sub task 3-3-3**  
+#### Sub task 2-3-3
 ![](./info-files/2-3-3.png)
 
-**Sub task 3-3-4**  
+#### Sub task 2-3-4
 ![](./info-files/2-3-4.png)
 
-**Sub task 3-3-5**  
+#### Sub task 2-3-5
 ![](./info-files/2-3-5.gif)
 
-**Sub task 3-3-6**  
+#### Sub task 2-3-6
 ![](./info-files/2-3-6.png)
 
-**Sub task 3-3-7**  
+#### Sub task 2-3-7
 ![](./info-files/2-3-7.png)
 
-**Sub task 3-3-8**  
+#### Sub task 2-3-8
 ![](./info-files/2-3-8.png)
 
-**Sub task 3-3-9**  
+#### Sub task 2-3-9
 ![](./info-files/2-3-9.jpg)
